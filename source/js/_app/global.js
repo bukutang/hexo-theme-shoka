@@ -128,6 +128,7 @@ const themeColorListener = function () {
 }
 
 const visibilityListener = function () {
+  /* 偵測分頁切換並做出效果
   document.addEventListener('visibilitychange', function() {
     switch(document.visibilityState) {
       case 'hidden':
@@ -148,6 +149,7 @@ const visibilityListener = function () {
       break;
     }
   });
+  */
 }
 
 const showtip = function(msg) {
