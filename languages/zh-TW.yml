@@ -9,7 +9,7 @@ title:
   category: 分類
   tag: 標籤
   all: 全部
-  not_found: Σ( ° △ °|||)︴404！何も見えない
+  not_found: 不存在的空間
   category_in: 分類於"%s"的文章
   tag_in: 包含標籤"%s"的文章
   archive_in: 發表於"%s"的文章
@@ -53,7 +53,7 @@ post:
     author: 作者
     link: 文章連結
     license_title: 版權聲明
-    license_content: "本網誌所有文章除特別聲明外，均採用 %s 許可協議。轉載請註明出處！"
+    license_content: "本網誌所有文章除特別聲明外，均保留所有權利。轉載請註明出處！"
     nocopy: "<span class=\"red\">本頁內容禁止轉載！</span>"
 
 footer:
@@ -131,8 +131,8 @@ symbols_count_time:
   view: 次
 
 tips:
-  copyright: "複製成功，轉載請遵守 %s 協議。"
-  nocopy: "複製失敗，本頁內容禁止轉載！"
+  copyright: "複製成功，轉載請註明出處。"
+  nocopy: "本頁內容禁止複製！"
 
 quiz:
   choice: 單選題
